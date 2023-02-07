@@ -1,0 +1,8 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "showFrontmatter": true
+}

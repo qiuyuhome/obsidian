@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ce25b9741596ee0a","x":-650,"y":-397,"width":693,"height":633,"type":"file","file":"Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"},
+		{"id":"b96fca9f61c725f2","x":320,"y":-140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"fc9ba20cc4af10b8","x":160,"y":-397,"width":675,"height":664,"color":"2","type":"file","file":"computer networks/TPC 三次握手.md"}
+	],
+	"edges":[]
+}
