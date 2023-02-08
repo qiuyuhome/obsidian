@@ -8,29 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9df25055e9b308cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "11a126d317c505a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/什么类型可以比较、什么类型不能比较.md",
+                "file": "GoLang/~GoLang面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f70eb408e10a271b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/defer 的原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md",
+                "file": "GoLang/defer 的原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md",
+                "file": "GoLang/defer 的原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
+                "file": "GoLang/defer 的原理.md"
               }
             }
           },
@@ -153,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,17 +172,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9df25055e9b308cf",
+  "active": "f70eb408e10a271b",
   "lastOpenFiles": [
-    "Excalidraw/未命名.canvas",
-    "Excalidraw/attachments/Pasted Image 20221230154458_055.png",
-    "Excalidraw/attachments/Pasted Image 20221230154257_997.png",
-    "Excalidraw/attachments/Pasted Image 20221230154157_808.png",
-    "attachments/Pasted image 20230116113714.png",
-    "看板.md",
-    "汇总.md",
-    "Tools/Obsidian 插件/admonition.md",
-    "Tools/Obsidian 插件/attachments/Pasted image 20221229102247.png",
-    "GoLang/~GoLang面试题.md"
+    "GoLang/~GoLang面试题.md",
+    "GoLang/defer 的原理.md",
+    "GoLang/string 底层实现.md",
+    "GoLang/内存对齐.md",
+    "GoLang/并发安全的类型有哪些.md",
+    "MySQL/~MySQL面试题.md",
+    "MySQL/MySQL 索引原理.md",
+    "GoLang/golang 中 make 和 new 的区别？.md",
+    "GoLang/什么类型可以比较、什么类型不能比较.md",
+    "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
   ]
 }
