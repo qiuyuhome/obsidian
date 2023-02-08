@@ -11,12 +11,9 @@
             "id": "9df25055e9b308cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "GoLang/~GoLang面试题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
               }
             }
           },
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/~GoLang面试题.md",
+                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/~GoLang面试题.md",
+                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/~GoLang面试题.md"
+                "file": "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
               }
             }
           },
@@ -173,15 +170,15 @@
   },
   "active": "9df25055e9b308cf",
   "lastOpenFiles": [
-    "GoLang/channel 的底层实现以及原理.md",
-    "GoLang/~GoLang面试题.md",
-    "GoLang/map 的底层原理.md",
-    "GoLang/什么类型可以比较、什么类型不能比较.md",
-    "GoLang/golang 中 make 和 new 的区别？.md",
-    "MySQL/~MySQL面试题.md",
-    "GoLang/channel 底层原理.md",
-    "MySQL/四大隔离级别.md",
-    "MySQL/对事务的理解.md",
-    "MySQL/行格式（row format）.md"
+    "Excalidraw/未命名.canvas",
+    "Excalidraw/attachments/Pasted Image 20221230154458_055.png",
+    "Excalidraw/attachments/Pasted Image 20221230154257_997.png",
+    "Excalidraw/attachments/Pasted Image 20221230154157_808.png",
+    "attachments/Pasted image 20230116113714.png",
+    "看板.md",
+    "汇总.md",
+    "Tools/Obsidian 插件/admonition.md",
+    "Tools/Obsidian 插件/attachments/Pasted image 20221229102247.png",
+    "GoLang/~GoLang面试题.md"
   ]
 }
