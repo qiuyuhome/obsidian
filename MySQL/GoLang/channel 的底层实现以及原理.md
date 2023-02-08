@@ -99,3 +99,9 @@ type hchan struct {
 4. 将当前goroutine加入recvq，进入睡眠，等待被写goroutine唤醒；
 
 ## 关闭 channel
+关闭channel时会把recvq中的G全部唤醒，本该写入G的数据位置为nil。把sendq中的G全部唤醒，但这些G会panic。
+
+除此之外，panic出现的常见场景还有：
+1. 关闭值为nil的channel
+2. 关闭已经被关闭的channel
+3. 向已经关闭的channel写数据

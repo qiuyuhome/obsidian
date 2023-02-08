@@ -8,46 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01733588d717fef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/~MySQL面试题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "233ceda29d8a416d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/行格式（row format）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9df25055e9b308cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/go中锁的原理.md",
+                "file": "GoLang/~GoLang面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11a126d317c505a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/什么类型可以比较、什么类型不能比较.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/go中锁的原理.md",
+                "file": "GoLang/~GoLang面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/go中锁的原理.md",
+                "file": "GoLang/~GoLang面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/go中锁的原理.md"
+                "file": "GoLang/~GoLang面试题.md"
               }
             }
           },
@@ -187,15 +173,15 @@
   },
   "active": "9df25055e9b308cf",
   "lastOpenFiles": [
-    "MySQL/索引页的结构.md",
-    "MySQL/行格式（row format）.md",
-    "MySQL/~MySQL面试题.md",
-    "computer networks/~计算机网络面试题.md",
-    "MySQL/谈谈你对 B+ 树的理解？.md",
     "GoLang/channel 的底层实现以及原理.md",
     "GoLang/~GoLang面试题.md",
-    "GoLang/GPM调度器.md",
+    "GoLang/map 的底层原理.md",
+    "GoLang/什么类型可以比较、什么类型不能比较.md",
     "GoLang/golang 中 make 和 new 的区别？.md",
-    "GoLang/数组和切片的区别.md"
+    "MySQL/~MySQL面试题.md",
+    "GoLang/channel 底层原理.md",
+    "MySQL/四大隔离级别.md",
+    "MySQL/对事务的理解.md",
+    "MySQL/行格式（row format）.md"
   ]
 }
