@@ -21,12 +21,51 @@
             }
           },
           {
+            "id": "a1304fc9703c5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis/~Redis面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a360c01cb7ae0d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/~MySQL面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f70eb408e10a271b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/defer 的原理.md",
+                "file": "computer networks/~计算机网络面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d0c358eab0941db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/GPM调度器.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/defer 的原理.md",
+                "file": "computer networks/~计算机网络面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/defer 的原理.md",
+                "file": "computer networks/~计算机网络面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/defer 的原理.md"
+                "file": "computer networks/~计算机网络面试题.md"
               }
             }
           },
@@ -157,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,15 +213,15 @@
   },
   "active": "f70eb408e10a271b",
   "lastOpenFiles": [
-    "GoLang/~GoLang面试题.md",
-    "GoLang/defer 的原理.md",
-    "GoLang/string 底层实现.md",
-    "GoLang/内存对齐.md",
-    "GoLang/并发安全的类型有哪些.md",
     "MySQL/~MySQL面试题.md",
-    "MySQL/MySQL 索引原理.md",
-    "GoLang/golang 中 make 和 new 的区别？.md",
-    "GoLang/什么类型可以比较、什么类型不能比较.md",
-    "Excalidraw/Drawing 2022-12-30 10.38.28.excalidraw.md"
+    "MySQL/MySQL MVCC（多版本并发控制）作用及实现原理？.md",
+    "MySQL/MySQL 中有哪些锁.md",
+    "GoLang/GPM调度器.md",
+    "Redis/内存满了，再往 redis 中写入数据，会发生什么？.md",
+    "Redis/~Redis面试题.md",
+    "Redis/分布式锁如何实现.md",
+    "MySQL/InnoDB的Double Write.md",
+    "MySQL/Buffer Pool的理解.md",
+    "MySQL/Change Buffer.md"
   ]
 }

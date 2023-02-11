@@ -2,7 +2,7 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "current",
   "showFrontmatter": true
 }
